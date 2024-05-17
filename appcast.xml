@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MyAppKitSparkleTest</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 17 May 2024 06:12:23 -0600</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jimsBeam/MyAppKitSparkleTest/releases/download/prod/MyAppKitSparkle1.0.dmg" length="2821066" type="application/octet-stream" sparkle:edSignature="aYoI7tJb91jB8X7FW5Xpafp+3JCFpWZNsQA5WkBl3KrCL/nLubTcl15LWwjQ6Mq/qUJClcqcA8yED85HsBnYDw=="/>
+        </item>
+    </channel>
+</rss>
