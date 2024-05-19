@@ -8,7 +8,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/MyAppKitSparkleTest/releases/download/prod/MyAppKitSparkle1.0.dmg" length="2821066" type="application/octet-stream" sparkle:edSignature="aYoI7tJb91jB8X7FW5Xpafp+3JCFpWZNsQA5WkBl3KrCL/nLubTcl15LWwjQ6Mq/qUJClcqcA8yED85HsBnYDw=="/>
+            <enclosure url="https://github.com/jimsBeam/MyAppKitSparkleTest/releases/download/prod/MyAppKitSparkleTest1.1.dmg" length="2821066" type="application/octet-stream" sparkle:edSignature="aYoI7tJb91jB8X7FW5Xpafp+3JCFpWZNsQA5WkBl3KrCL/nLubTcl15LWwjQ6Mq/qUJClcqcA8yED85HsBnYDw=="/>
         </item>
     </channel>
 </rss>
