@@ -4,20 +4,11 @@
         <title>MyAppKitSparkleTest</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sun, 19 May 2024 12:27:20 -0600</pubDate>
+            <pubDate>Fri, 31 May 2024 18:53:24 -0600</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-<description><![CDATA[
-<h2>What's New</h2>
-<ul>
-<li>Created Sparkle Updater to check for new updates.</li>
-<li>Minor coding improvements.</li>
-<li>Application will update to the Current Version when the User requests an update.</li>
-</ul>
-]]>
-</description>
-            <enclosure url="https://github.com/jimsBeam/MyAppKitSparkleTest/releases/download/prod/MyAppKitSparkleTest1.1.dmg" length="2822715" type="application/octet-stream" sparkle:edSignature="VnYz53PQdpqNCFdVL7wGWI6iam7H2yBiqokXCOxPklyPu7aUiDzFdlsdVoC+KNEmhqGMKy38ouflw6EAEx+9Cg=="/>
+            <enclosure url="https://github.com/jimsBeam/MyAppKitSparkleTest/releases/download/prod/MyAppKitSparkleTest1.1.dmg" length="2820433" type="application/octet-stream" sparkle:edSignature="xrTCm4hdsLPAfdBDNMtz2Qv57khfxVVthYcwD42vtPIN4WfiW+KEOz1wVbBOo5Que6JLwCu4O6NHsDY1JLHrAw=="/>
         </item>
     </channel>
 </rss>
